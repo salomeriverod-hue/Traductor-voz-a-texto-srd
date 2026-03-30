@@ -15,7 +15,7 @@ from gtts import gTTS
 from googletrans import Translator
 
 
-st.title("¿No entiendes el idioma?")
+st.title("¿No sabes cómo decirlo?")
 st.subheader("Te ayudo oyendo lo que deseas traducir.")
 
 
